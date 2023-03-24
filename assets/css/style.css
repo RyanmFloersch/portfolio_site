@@ -205,6 +205,26 @@ footer{
     top:20%;  */
 }
 
+
+.image-one a{
+    background-color: var(--highlight-background);
+    border-style: solid;
+    border-color: teal;
+    width: 15%;
+    height: 15%;
+    text-align: center;
+    vertical-align: middle;
+
+    text-decoration: underline;
+    margin-right: 10px;
+
+
+
+    /* position: relative;
+    left: 80%;
+    top:20%;  */
+}
+
 .image-two{
     display: flex;
     background-image: url("https://picsum.photos/id/237/200/300");
